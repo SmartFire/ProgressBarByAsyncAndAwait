@@ -1,0 +1,8 @@
+D:\资料整理大全\异步多线程任务并行\ProgressBarByAsyncAndAwait\ProgressBarByAsyncAndAwait\bin\Debug\ProgressBarByAsyncAndAwait.exe.config
+D:\资料整理大全\异步多线程任务并行\ProgressBarByAsyncAndAwait\ProgressBarByAsyncAndAwait\bin\Debug\ProgressBarByAsyncAndAwait.exe
+D:\资料整理大全\异步多线程任务并行\ProgressBarByAsyncAndAwait\ProgressBarByAsyncAndAwait\bin\Debug\ProgressBarByAsyncAndAwait.pdb
+D:\资料整理大全\异步多线程任务并行\ProgressBarByAsyncAndAwait\ProgressBarByAsyncAndAwait\obj\Debug\ProgressBarByAsyncAndAwait.MainForm.resources
+D:\资料整理大全\异步多线程任务并行\ProgressBarByAsyncAndAwait\ProgressBarByAsyncAndAwait\obj\Debug\ProgressBarByAsyncAndAwait.Properties.Resources.resources
+D:\资料整理大全\异步多线程任务并行\ProgressBarByAsyncAndAwait\ProgressBarByAsyncAndAwait\obj\Debug\ProgressBarByAsyncAndAwait.csproj.GenerateResource.Cache
+D:\资料整理大全\异步多线程任务并行\ProgressBarByAsyncAndAwait\ProgressBarByAsyncAndAwait\obj\Debug\ProgressBarByAsyncAndAwait.exe
+D:\资料整理大全\异步多线程任务并行\ProgressBarByAsyncAndAwait\ProgressBarByAsyncAndAwait\obj\Debug\ProgressBarByAsyncAndAwait.pdb
